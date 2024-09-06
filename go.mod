@@ -18,9 +18,9 @@ require (
 	github.com/onsi/gomega v1.33.1
 	github.com/open-policy-agent/cert-controller v0.10.2-0.20240531181455-2649f121ab97
 	github.com/ory/dockertest/v3 v3.10.0
-	github.com/prometheus/client_golang v1.19.1
+	github.com/prometheus/client_golang v1.20.3
 	go.uber.org/zap v1.27.0
-	golang.org/x/sys v0.21.0
+	golang.org/x/sys v0.22.0
 	k8s.io/api v0.30.2
 	k8s.io/apiextensions-apiserver v0.30.2
 	k8s.io/apimachinery v0.30.2
@@ -76,6 +76,8 @@ require (
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/josharian/native v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
+	github.com/klauspost/compress v1.17.9 // indirect
+	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mdlayher/packet v1.0.0 // indirect
 	github.com/mdlayher/socket v0.2.1 // indirect
@@ -90,7 +92,7 @@ require (
 	github.com/opencontainers/runc v1.1.12 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/prometheus/client_model v0.6.1 // indirect
-	github.com/prometheus/common v0.54.0 // indirect
+	github.com/prometheus/common v0.55.0 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
